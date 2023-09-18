@@ -23,7 +23,7 @@ public class Alerts {
         driver.findElement(By.id("login1")).sendKeys("v.ana.95@hotmal.com");
         driver.findElement(By.name("proceed")).click();
 
-        wait.until(ExpectedConditions.alertIsPresent());
+       wait.until(ExpectedConditions.alertIsPresent());
 
         Alert alert = driver.switchTo().alert();
         alert.accept();

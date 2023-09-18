@@ -1,0 +1,11 @@
+﻿Test Case for LoginLiveProject
+
+
+01.TC - Verify that user can login
+     01.I will open login page
+     02.I will click money link
+     03.I will click sign in button
+     04.I will enter user name 
+     05.I will enter password
+     06.I will click submit button
+     Verify that user can login

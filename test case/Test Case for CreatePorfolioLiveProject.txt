@@ -1,0 +1,28 @@
+﻿Test Case for CreatePorfolioLiveProject
+
+
+01.TC- Verify that user can add new portfolio
+     01.I will open login page
+     02.I will click money link
+     03.I will click sign in button
+     04.I will enter user name 
+     05.I will enter password
+     06.I will click submit button
+     07.I will click create button
+     08.I will delete portfolio name
+     09.I will enter new portfolio name
+     10.I will click create portfolio button
+     Verify that user can add new portfolio
+
+
+02.TC - Verify that user can delete portfolio
+      01.I will open login page
+     02.I will click money link
+     03.I will click sign in button
+     04.I will enter user name 
+     05.I will enter password
+     06.I will click submit button
+     07.I will select portfolio
+     08.I will click detele button
+     09.I will click ok button
+     Verify that user can delete portfolio

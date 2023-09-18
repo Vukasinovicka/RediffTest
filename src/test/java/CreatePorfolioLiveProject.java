@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class CreatePorfolio {
+public class CreatePorfolioLiveProject {
 
     WebDriver driver = new ChromeDriver();
     WebDriverWait wait = new WebDriverWait(driver,10);

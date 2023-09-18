@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-public class AddDeleteStock {
+public class AddDeleteStockLiveProject {
 
 
     public static final WebDriver driver = new ChromeDriver();

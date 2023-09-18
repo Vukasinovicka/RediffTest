@@ -1,0 +1,34 @@
+﻿Test Case for AddDeleteStockLiveProject
+
+
+
+
+01.TC - Verify that user can add  stock
+     01.I will open login page
+     02.I will click money link
+     03.I will click sign in button
+     04.I will enter user name 
+     05.I will enter password
+     06.I will click submit button
+     07.I will click add stock button
+     08.I will enter stock name
+     09.I will enter date of purchase
+     10.I will enter quantity
+     11.I will enter purchase price
+     12.I will click add stock button
+     Verify that user can add stock
+
+
+
+
+02.TC - Verify that user can delete stock
+     01.I will open login page
+     02.I will click money link
+     03.I will click sign in button
+     04.I will enter user name 
+     05.I will enter password
+     06.I will click submit button
+     07.I will select stock
+     08.I will click delete button
+     09.I will click ok button
+     Verify that user can delete stock
